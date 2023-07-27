@@ -1,0 +1,16 @@
+.idea/
+*.log
+*.pot
+*.pyc
+.mypy_cache/
+__pycache__/
+local_settings.py
+.pytest_cache/
+.env
+# pyenv
+.python-version
+
+# virtualenv
+.venv
+venv/
+ENV/
